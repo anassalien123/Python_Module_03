@@ -4,15 +4,15 @@ This repository contains the materials, exercises, and example code for "Python 
 
 ## Table of contents
 
-- [About](#about)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project structure](#project-structure)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+- <a>About</a>
+- <a>Requirements</a>
+- <a>Installation</a>
+- <a>Usage</a>
+- <a>Project structure</a>
+- <a>Tests</a>
+- <a>Contributing</a>
+- <a>License</a>
+- <a>Author</a>
 
 ## About
 
